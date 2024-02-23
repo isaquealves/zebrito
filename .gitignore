@@ -1,0 +1,6 @@
+scripts/executar-teste-local.sh
+scripts/gatling-text-report.sh
+load-test/user-files
+zebrito.code-workspace
+load-test
+zebrito/__pycache__/

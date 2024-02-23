@@ -1,0 +1,6 @@
+scripts/install_gatling.sh
+scripts/gattling-text-report.sh
+scripts/executar-teste-local.sh
+load-test/
+.pytest_cache
+*.code-workspace
